@@ -1,0 +1,7 @@
+{
+  "name": "firstLecture",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
